@@ -1,2 +1,2 @@
-# ICS_lab
-2024 Some thought of ICS.
+# ICS
+​	此仓库仅用于存储本人在完成ICS课程的lab的过程中踩过的坑及思考过程，点进来的大佬可以提提建议！
